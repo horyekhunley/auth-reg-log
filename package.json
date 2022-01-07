@@ -1,0 +1,20 @@
+{
+  "name": "auth-reg-log",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/horyekhunley/auth-reg-log.git",
+  "author": "Mahbub Bello <mahbubbello@gmail.com>",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "joi": "^17.5.0",
+    "mongoose": "^6.1.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
